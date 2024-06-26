@@ -2,7 +2,7 @@
 
 大学のリアクションペーバーもどきを作ってみた。  
 React を使用して、実行環境は　create-react-app を用いた。  
-フォームのバリデーションには *yup* ライブララリー　を使用し、CSS スタイリングには *CSS Modules* を採用している。  
+フォームのバリデーションには*yup*ライブララリーを使用し、CSSスタイリングには*CSS Modules*を採用している。  
  
 # demo
 <img width="1000" alt="スクリーンショット 2024-06-26 20 56 28" src="https://github.com/RyusukeYashiro/React-study/assets/166738435/da67aeae-70a8-4f29-a795-6f084fdb36c5">
