@@ -32,10 +32,16 @@ validationチェック　　
 * Node.js の実行環境
  
 # Installation
- 
+
+create-react-upの実行環境（my-appは例)　　
 ```bash
-pip install huga_package
+npx create-react-app my-app
 ```
+
+```bash
+   npm start	
+```
+
  
 # Usage
  
