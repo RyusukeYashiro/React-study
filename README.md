@@ -4,13 +4,9 @@
 React を使用して、実行環境は　create-react-app を用いた。
 フォームのバリデーションには yup ライブララリー　を使用し、CSS スタイリングには CSS Modules を採用している。
  
-# DEMO
+# demo
  
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
- 
-# Features
- 
-"hoge"のセールスポイントや差別化などを説明する
  
 # Requirement
  
@@ -41,20 +37,3 @@ python demo.py
  
 注意点などがあれば書く
  
-# Author
- 
-作成情報を列挙する
- 
-* 作成者
-* 所属
-* E-mail
- 
-# License
-ライセンスを明示する
- 
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
- 
-社内向けなら社外秘であることを明示してる
- 
-"hoge" is Confidential.
-
