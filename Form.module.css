@@ -1,0 +1,71 @@
+.header {
+    text-align: center;
+    background-color: #7acbe1;
+    padding: 10px;
+    color: #ffffff;
+    font-size: 20px;
+  }
+
+.header p {
+    color: black;
+    font-weight: bold;
+} 
+
+  .formContainer {
+    display: flex;
+    /* 子要素を折り返して複数行並べる */
+    flex-wrap: wrap;
+    flex-direction: column;
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f3f3f3;
+    border-radius: 7px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .inputField,
+  .selectField,
+  .textareaField {
+    margin-bottom: 15px;
+  }
+
+  .textareaField{
+    width: 90%;
+    height: 150px;
+    padding: 10px;
+    margin-top: 10px;
+    font-size: 13px;
+  }
+
+  .label {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    transition: .5s;
+  }
+  
+  .button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  .button:not(:disabled):hover {
+    scale: 1.2;
+    rotate: -5deg;
+    background-color: #45a045;
+  }
+  
+  .errorMsg {
+    color: red;
+    font-size: bold;
+    margin-bottom: 10px;
+  }
+  
