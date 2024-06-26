@@ -72,9 +72,5 @@ root.render(
 )
 ```
 renderを行う  
-あとはnpm startを行えば良い
- 
-# Note
- 
-注意点などがあれば書く
+あとはnpm startを行えば良い（これらはindex.js)に記述
  
