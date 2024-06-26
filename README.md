@@ -27,14 +27,11 @@ validationチェック　　
 
 # Requirement
  
-"hoge"を動かすのに必要なライブラリなどを列挙する
+動かすのに必要なライブラリなど
  
-* huga 3.5.2
-* hogehuga 1.0.2
+* Node.js の実行環境
  
 # Installation
- 
-Requirementで列挙したライブラリなどのインストール方法を説明する
  
 ```bash
 pip install huga_package
