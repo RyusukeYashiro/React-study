@@ -57,13 +57,22 @@ npm install classname
  
 # Usage
  
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
- 
-```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
+installが終わったらsrcディレクトリーにFormYup.jsとForm.module.cssを配置  
+```index.js
+const root = ReactDOM.createRoot(document.getElementById('root'));
 ```
+をindex.jsに記述。　　
+```index.js
+import FormYup from './FormYup';
+```
+importを済ませ  
+```index.js
+root.render(
+    <FormYup/>
+)
+```
+renderを行う  
+あとはnpm startを行えば良い
  
 # Note
  
