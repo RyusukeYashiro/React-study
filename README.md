@@ -15,7 +15,9 @@ React を使用して、実行環境は　create-react-app を用いた。
 記述欄:　300字以上  
        眠い、つまらないなどは不可  
 
+<img width="976" alt="スクリーンショット 2024-06-26 20 57 08" src="https://github.com/RyusukeYashiro/React-study/assets/166738435/fb645418-d5da-4ce4-9d55-2229acb4f33b">
 
+<img width="699" alt="スクリーンショット 2024-06-26 20 59 51" src="https://github.com/RyusukeYashiro/React-study/assets/166738435/08f6a535-edc9-451b-aaae-3034e0f8d61c">
  
 # Requirement
  
