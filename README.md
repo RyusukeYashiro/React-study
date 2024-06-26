@@ -21,7 +21,10 @@ React を使用して、実行環境は　create-react-app を用いた。
 　　
 validationチェック　　
 <img width="699" alt="スクリーンショット 2024-06-26 20 59 51" src="https://github.com/RyusukeYashiro/React-study/assets/166738435/08f6a535-edc9-451b-aaae-3034e0f8d61c">
- 
+
+送信した場合  
+<img width="707" alt="スクリーンショット 2024-06-26 21 05 48" src="https://github.com/RyusukeYashiro/React-study/assets/166738435/a3f907ea-c0c3-4385-bf5c-ed60d25fcb67">
+
 # Requirement
  
 "hoge"を動かすのに必要なライブラリなどを列挙する
