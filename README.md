@@ -39,8 +39,20 @@ npx create-react-app my-app
 ```
 
 ```bash
-   npm start	
+npm start	
 ```
+必要ライブラリーのinstall  
+```bash
+npm install react-hook-form
+```
+```bash
+npm install @hookform/resolvers yup
+```
+```bash
+npm install classname
+```
+
+
 
  
 # Usage
