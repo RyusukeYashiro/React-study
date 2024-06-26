@@ -5,8 +5,7 @@ React を使用して、実行環境は　create-react-app を用いた。
 フォームのバリデーションには yup ライブララリー　を使用し、CSS スタイリングには CSS Modules を採用している。
  
 # demo
- 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+<img width="50" alt="スクリーンショット 2024-06-26 20 56 28" src="https://github.com/RyusukeYashiro/React-study/assets/166738435/da67aeae-70a8-4f29-a795-6f084fdb36c5">
  
 # Requirement
  
